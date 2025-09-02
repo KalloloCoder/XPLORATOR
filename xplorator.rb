@@ -4,7 +4,7 @@
 
 require 'io/console'
 
-# Modules (akan dibuat kemudian)
+# Modules
 require_relative './modules/recon'
 require_relative './modules/pocgen'
 require_relative './modules/obfuscator'
@@ -16,7 +16,7 @@ BLUE   = "\e[34m"
 YELLOW = "\e[33m"
 RESET  = "\e[0m"
 
-# Banner ASCII biru + kuning
+# Banner ASCII
 def banner
   puts "#{BLUE}▗▖  ▗▖▗▄▄▖ ▗▖    ▗▄▖ ▗▄▄▖  ▗▄▖▗▄▄▄▖▗▄▖ ▗▄▄▖"
   puts " ▝▚▞▘ ▐▌ ▐▌▐▌   ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌ █ ▐▌ ▐▌▐▌ ▐▌"
