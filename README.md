@@ -28,17 +28,19 @@ Tujuannya untuk membantu dalam **reconnaissance, payload generation, obfuscation
 ## Struktur Project
 ```
 XPLORATOR/
-├── xplorator.rb          # Main CLI untuk menjalankan tool
+├── assets/               # Gambar logo XPLORATOR
+│   └── logo.png          # Logo
+├── data/
+│   └── wordlist.txt      # Wordlist pendukung untuk scanning
 ├── modules/              # Berisi modul-modul utama
 │   ├── recon.rb          # Modul reconnaissance (subdomain / endpoint scan)
 │   ├── pocgen.rb         # Modul untuk membuat PoC payload sederhana
 │   ├── obfuscator.rb     # Modul encoding/obfuscation payload (URL, Base64, Hex)
 │   ├── playground.rb     # Modul local server testing (WEBrick @ localhost:8000)
 │   └── report.rb         # Modul membuat laporan hasil scan (markdown/txt)
-├── data/
-│   └── wordlist.txt      # Wordlist pendukung untuk scanning
 ├── README.md             # Dokumentasi project
-└── LICENSE               # Lisensi project
+├── LICENSE               # Lisensi project
+└── xplorator.rb          # Main file
 ```
 
 ---
