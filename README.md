@@ -19,7 +19,7 @@
 # XPLORATOR
 
 XPLORATOR adalah **tool edukasi bug hunting / security testing** berbasis CLI, ditulis dengan **Ruby**.  
-Tujuannya untuk belajar dasar **reconnaissance, payload generation, obfuscation, local testing**, dan **reporting** dalam proses eksplorasi keamanan aplikasi web.
+Tujuannya untuk membantu dalam **reconnaissance, payload generation, obfuscation, local testing**, dan **reporting** dalam proses eksplorasi keamanan aplikasi web.
 
 > Disclaimer: Tool ini dibuat untuk **pembelajaran & penelitian**. Segala penyalahgunaan bukan tanggung jawab penulis.
 
