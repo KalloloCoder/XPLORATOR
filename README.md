@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-3.4.5-red" />
-  <img src="https://img.shields.io/github/v/release/KalloloCoder/XPLORATOR?color=blue&label=version" />
+  <img src="https://img.shields.io/github/tag/KalloloCoder/TryHuntMe.svg" />
   <img src="https://img.shields.io/github/license/KalloloCoder/XPLORATOR" />
   <img src="https://img.shields.io/badge/Maintained-Yes-green" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen" />
