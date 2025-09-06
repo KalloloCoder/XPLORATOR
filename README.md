@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="XPLORATOR Logo" width="300"/>
+  <img src="assets/logo.png" alt="XPLORATOR Logo" width="350"/>
 </p>
 
 <p align="center">
